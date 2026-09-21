@@ -27,7 +27,7 @@ Ce projet consiste à développer une application web de réservation et d'attri
 
 ---
 
-### 2. Modèle Conceptuel de Données (MCD)
+### 2. Modèle Conceptuel de Données
 
 Le MCD modélise la structure de la base de données (Utilisateurs, Places, Réservations, File d'attente).
 
