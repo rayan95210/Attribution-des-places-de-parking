@@ -1,6 +1,6 @@
 Plan du Site & Structure des URL
 ---
-1. Espace Public & Authentification
+## 1. Espace Public & Authentification
    
 Ces pages sont accessibles aux visiteurs et utilisateurs non connectés.
 
@@ -10,7 +10,7 @@ Ces pages sont accessibles aux visiteurs et utilisateurs non connectés.
 
 /forgot-password : Mot de passe oublié (Saisie de l'email pour réinitialisation).
 
-2. Front-Office — Espace Utilisateur
+## 2. Front-Office — Espace Utilisateur
    
 Pages accessibles uniquement aux utilisateurs connectés et dont le compte a été validé par l'administrateur.
 
@@ -26,7 +26,7 @@ Modification des informations personnelles et du mot de passe.
 
 /logout : Déconnexion
 
-3. Back-Office — Espace Administrateur
+## 3. Back-Office — Espace Administrateur
 
 Pages réservées exclusivement à l'administrateur.
 
