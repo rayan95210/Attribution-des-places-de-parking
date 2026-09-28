@@ -11,7 +11,7 @@ Ces pages sont accessibles aux visiteurs et utilisateurs non connectés.
 /forgot-password : Mot de passe oublié (Saisie de l'email pour réinitialisation).
 
 2. Front-Office — Espace Utilisateur
-   
+---
 Pages accessibles uniquement aux utilisateurs connectés et dont le compte a été validé par l'administrateur.
 
 /dashboard : Tableau de bord principal    
@@ -27,7 +27,7 @@ Modification des informations personnelles et du mot de passe.
 /logout : Déconnexion
 
 3. Back-Office — Espace Administrateur
-   
+--- 
 Pages réservées exclusivement à l'administrateur.
 
 /admin/dashboard : Vue d'ensemble
